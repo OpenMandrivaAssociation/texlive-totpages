@@ -6,7 +6,7 @@
 # catalog-version 2.00
 Name:		texlive-totpages
 Version:	2.00
-Release:	8
+Release:	9
 Summary:	Count pages in a document, and report last page number
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/totpages
